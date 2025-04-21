@@ -1,0 +1,4 @@
+src/constants/
+src/app/providers.js
+node_modules
+.next
